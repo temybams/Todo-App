@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "96c58ad6-ffbf-4741-9b17-159b055d4b47",
+      "text": "work on More Nextjs projects to get better"
+    },
+    {
+      "id": "ed5a41b9-9ac0-4faa-87d5-301d3774a6b0",
+      "text": "Finish up the Work! hard work pays"
+    },
+    {
+      "id": "97e96e01-a562-4ed9-af78-4b626314c398",
+      "text": "implement signup and signin, google sso in this project"
+    },
+    {
+      "id": "2fe3f36f-2208-463e-b6cd-113ec2bf8200",
+      "text": "Read your bible"
+    }
+  ]
+}
